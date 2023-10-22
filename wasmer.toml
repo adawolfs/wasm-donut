@@ -1,6 +1,6 @@
 [package]
 name = "adawolfs/donut"
-version = "0.0.1"
+version = "0.0.2"
 description = "This is a port of a1k0n donut.c to WebAssembly"
 license = "MIT"
 readme = "./README.md"
